@@ -1,2 +1,2 @@
 # first-project-go
-First personal projecton go
+First personal project on go
